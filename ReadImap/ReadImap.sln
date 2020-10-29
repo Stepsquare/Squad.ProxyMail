@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadImap", "ReadImap.csproj", "{F7B9E38C-E01C-4701-9DC3-869876562AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailConsole", "..\MailConsole\MailConsole.csproj", "{4FC338D1-B37A-4A49-9A3F-1C39E4039292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B9E38C-E01C-4701-9DC3-869876562AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B9E38C-E01C-4701-9DC3-869876562AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B9E38C-E01C-4701-9DC3-869876562AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B9E38C-E01C-4701-9DC3-869876562AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC338D1-B37A-4A49-9A3F-1C39E4039292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC338D1-B37A-4A49-9A3F-1C39E4039292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC338D1-B37A-4A49-9A3F-1C39E4039292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC338D1-B37A-4A49-9A3F-1C39E4039292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B46BB8B-B692-40B3-9C37-4C8FF174F552}
+	EndGlobalSection
+EndGlobal
